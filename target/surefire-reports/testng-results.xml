@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="47" started-at="2019-02-24T18:08:50Z" finished-at="2019-02-24T18:08:50Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="47" started-at="2019-02-24T18:08:50Z" finished-at="2019-02-24T18:08:50Z">
+      <class name="PracAcademy.SeleniumTest">
+        <test-method status="PASS" signature="elemntsUI()[pri:0, instance:PracAcademy.SeleniumTest@180bc464]" name="elemntsUI" duration-ms="0" started-at="2019-02-24T23:38:50Z" finished-at="2019-02-24T23:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elemntsUI -->
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:PracAcademy.SeleniumTest@180bc464]" name="BrowserAutomation" duration-ms="0" started-at="2019-02-24T23:38:50Z" finished-at="2019-02-24T23:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- PracAcademy.SeleniumTest -->
+      <class name="PracAcademy.AppiumTest">
+        <test-method status="PASS" signature="NativeAndroid()[pri:0, instance:PracAcademy.AppiumTest@7a5d012c]" name="NativeAndroid" duration-ms="16" started-at="2019-02-24T23:38:50Z" finished-at="2019-02-24T23:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAndroid -->
+        <test-method status="PASS" signature="IOsApp()[pri:0, instance:PracAcademy.AppiumTest@7a5d012c]" name="IOsApp" duration-ms="0" started-at="2019-02-24T23:38:50Z" finished-at="2019-02-24T23:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOsApp -->
+      </class> <!-- PracAcademy.AppiumTest -->
+      <class name="PracAcademy.RestAPITest">
+        <test-method status="PASS" signature="twitterdelete()[pri:0, instance:PracAcademy.RestAPITest@1324409e]" name="twitterdelete" duration-ms="0" started-at="2019-02-24T23:38:50Z" finished-at="2019-02-24T23:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitterdelete -->
+        <test-method status="PASS" signature="postjira()[pri:0, instance:PracAcademy.RestAPITest@1324409e]" name="postjira" duration-ms="0" started-at="2019-02-24T23:38:50Z" finished-at="2019-02-24T23:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjira -->
+      </class> <!-- PracAcademy.RestAPITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
